@@ -1,4 +1,4 @@
-# WIP React Leaderboard
+# React Leaderboard
 
-Really simple React leaderboard; it lists the persons from an array. You can
-sort the list by name or number of points.
+Really simple React leaderboard; it lists the players from an array. You can
+sort the list by their name or score.

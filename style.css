@@ -73,6 +73,12 @@ body {
   margin-bottom: 1em;
 }
 
+.player--no-player {
+  margin: 5rem auto;
+  max-width: 320px;
+  text-align: center;
+}
+
 .player__img {
   background-size: contain;
   box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.05), 0 0 0 5px rgba(0, 0, 0, 0.05);
